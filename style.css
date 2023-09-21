@@ -1,0 +1,138 @@
+#bodyglitch {
+  background-image: url("pexels-felix-mittermeier-1146134.jpg");
+  padding: 5% 15%;
+}
+
+#sourceindex {
+  background-image: linear-gradient(to right, black, #042a2b);
+  padding: 5% 15%;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#sourceindex a {
+  color: green;
+}
+
+.glitch_universal {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#about {
+  width: 35%;
+  float: left;
+  position: relative;
+  bottom: 300px;
+}
+
+#internet {
+  width: 20%;
+  float: right;
+  position: relative;
+  bottom: 300px;
+}
+
+#meme {
+  float: left;
+  position: relative;
+  left: 15%;
+}
+
+#advocates {
+  float: left;
+  width: 25%;
+}
+
+#rejects {
+  float: right;
+  width: 25%;
+}
+
+#mirror {
+  position: relative;
+  left: 10%;
+}
+
+.box {
+  background-image: linear-gradient(to right, black, #042a2b);
+  padding: 2% 10%;
+  border: 1px solid green;
+  opacity: 0.8;
+}
+
+.box:hover {
+  opacity: 1;
+}
+
+#avatar {
+  float: right;
+  position: relative;
+  top: -400px;
+  opacity: 0.8;
+}
+
+#glitch_text {
+  color: green;
+  width: 10%;
+  text-align: right;
+}
+
+#about_wrap {
+  float: left;
+  margin: 5%;
+}
+
+#meme {
+  position: relative;
+  bottom: 200px;
+}
+
+#advocates {
+  position: relative;
+  bottom: 150px;
+}
+
+#mirror {
+  bottom: 50px;
+}
+
+#bodyindex {
+  background-image: linear-gradient(to right, black, #042a2b);
+}
+
+#error {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 200px;
+  text-align: center;
+  color: aqua;
+}
+
+#error:hover {
+  color: #e31c79;
+  text-decoration: underline;
+}
+
+button {
+  position: relative;
+  left: 40%;
+  top: -90px;
+  padding: 1rem;
+  border-radius: 100px;
+  width: 20%;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #e31c79;
+  color: aqua;
+  border-color: aqua;
+  font-size: 16px;
+}
+
+button:hover {
+  color: #e31c79;
+  background-color: aqua;
+}
+
+.mediabtn {
+  position: relative;
+  top: 20px;
+}
