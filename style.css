@@ -49,11 +49,6 @@
   width: 25%;
 }
 
-#mirror {
-  position: relative;
-  left: 10%;
-}
-
 .box {
   background-image: linear-gradient(to right, black, #042a2b);
   padding: 2% 10%;
@@ -93,8 +88,10 @@
   bottom: 150px;
 }
 
-#mirror {
-  bottom: 50px;
+.mirror {
+  /* bottom: 50px; */
+  position: relative;
+  left: 10%;
 }
 
 #bodyindex {
